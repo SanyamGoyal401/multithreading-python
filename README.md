@@ -21,9 +21,9 @@ This project demonstrates the effect of multithreading on matrix multiplication 
 4. View the output results and the generated graph.
 
 ## Results
-![Threads Vs Time]()
-![CPU Utilization]()
-![Cores Utilization]()
+![Threads Vs Time](https://github.com/SanyamGoyal401/multithreading-python/blob/main/Multithread-Figure_3.png)
+![CPU Utilization](https://github.com/SanyamGoyal401/multithreading-python/blob/main/CPU-Utilization.png)
+![Cores Utilization](https://github.com/SanyamGoyal401/multithreading-python/blob/main/cores-8.png)
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
